@@ -1,7 +1,7 @@
 """
 SRUL proof-of-concept for Google Colab / local Python.
 
-Goal: demonstrate the main mechanisms of Spherical Riemannian Unified Latents (SRUL):
+Goal: demonstrate the main mechanisms of Spherical Riemannian Unit-Norm Latents (SRUL):
 1) exact spherical latent via normalization;
 2) tangent-noise bitrate knob sigma_enc;
 3) geodesic flow-matching prior on the sphere;

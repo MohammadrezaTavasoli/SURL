@@ -55,8 +55,8 @@ Earlier global-latent experiments and supplementary deterministic-autoencoder mi
 
 ## Final artifacts
 
-- `report/SRUL_Final_Report_v22.pdf`
-- `report/SRUL_Final_Report_v22.tex`
-- `slides/SRUL_Final_5_Slides_v22.pptx`
-- `slides/SRUL_Final_5_Slides_v22.pdf`
-- `slides/SRUL_5min_Speaker_Script_v22.md`
+- `report/SRUL_Final_Report_v23.pdf`
+- `report/SRUL_Final_Report_v23.tex`
+- `slides/SRUL_Final_5_Slides_v23.pptx`
+- `slides/SRUL_Final_5_Slides_v23.pdf`
+- `slides/SRUL_5min_Speaker_Script_v23.md`

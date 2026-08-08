@@ -1,6 +1,8 @@
-# SRUL: Spatial Spherical Latents with Riemannian Flow Matching
+# Learning Spatial Unit-Norm Latents with Riemannian Flow Matching
 
 Latent generative models often use a Gaussian prior, but an autoencoder does not have to produce Gaussian latents. Its architecture and normalization determine the latent geometry. Normalized features can have nearly constant norm, so direction carries most of the information.
+
+We call the proposed framework **SRUL**, short for **Spherical Riemannian Unit-Norm Latents**. The name reflects the unit-norm support learned by the autoencoder and the Riemannian prior used to model it.
 
 SRUL studies a simple design rule:
 
@@ -121,9 +123,9 @@ The VAE comparison requires checkpoint paths described in [`docs/REPRODUCIBILITY
 
 ## Report and presentation
 
-- [Final report](report/SRUL_Final_Report_v22.pdf)
-- [Final slides](slides/SRUL_Final_5_Slides_v22.pdf)
-- [Speaker script](slides/SRUL_5min_Speaker_Script_v22.md)
+- [Final report](report/SRUL_Final_Report_v23.pdf)
+- [Final slides](slides/SRUL_Final_5_Slides_v23.pdf)
+- [Speaker script](slides/SRUL_5min_Speaker_Script_v23.md)
 
 ## Notes
 

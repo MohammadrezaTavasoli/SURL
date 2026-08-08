@@ -4,7 +4,7 @@
 
 An autoencoder does not have to produce Gaussian latents. Its architecture and normalization determine the latent geometry. Normalization can make token norms nearly constant, so direction carries most of the information.
 
-SRUL trains a spatial spherical autoencoder and an RFM prior on the same product-of-spheres support. This avoids two mismatches:
+Spherical Riemannian Unit-Norm Latents (SRUL) trains a spatial spherical autoencoder and an RFM prior on the same product-of-spheres support. This avoids two mismatches:
 
 - **path mismatch:** a straight chord leaves a spherical support;
 - **support mismatch:** a direction-only spherical prior is attached after a VAE has learned to use variable token radii.
