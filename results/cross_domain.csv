@@ -1,0 +1,4 @@
+dataset,resolution,reconstruction_fid,generation_fid,precision,recall
+CIFAR-10,32x32,17.31,48.71,0.861,0.090
+PathMNIST,32x32,7.13,29.36,0.829,0.309
+CelebA-64,64x64,9.08,41.22,0.657,0.198
