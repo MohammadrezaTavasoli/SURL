@@ -1,0 +1,4 @@
+latent_variant,radius_cv,reconstruction_fid,psnr,ssim,precision,recall
+Original Euclidean latent,0.267372,17.1030,31.4023,0.94399,0.9960,0.9900
+Class/token mean radius + direction,0.267372,23.5513,24.9587,0.85114,0.9858,0.9410
+Unit direction only,0.267372,428.2670,12.0885,0.01652,0.9540,0.0000

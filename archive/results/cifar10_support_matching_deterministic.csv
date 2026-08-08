@@ -1,0 +1,4 @@
+encoder_prior_pairing,support_relation,fid,kid,precision,recall
+Euclidean AE + Euclidean FM,matched Euclidean,46.7138,0.039303,0.8702,0.1164
+Spherical AE + RFM (SRUL),matched spherical,49.4193,0.045651,0.8572,0.1098
+Euclidean AE + projected RFM,direction-only mismatch,50.8639,0.043940,0.8556,0.0982
