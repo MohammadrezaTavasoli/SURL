@@ -1,4 +1,0 @@
-method,role,fid,kid_mean,precision,recall
-SRUL,matched_spherical,49.419273376464844,0.04565076902508736,0.8572,0.1098
-VAE + standard FM,matched_vae_full_latent,50.701751708984375,0.04305851459503174,0.8548,0.0912
-VAE + projected RFM,mismatched_direction_only,56.040382385253906,0.050264596939086914,0.8482,0.0626
