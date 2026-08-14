@@ -1,0 +1,7 @@
+metric,value
+global_mean_radius,3.8640474397580897
+global_std_radius,1.124525481851724
+global_radius_cv,0.2910226904259036
+mean_class_token_cv,0.2774843854190075
+mean_posterior_std,0.002479222175092078
+mean_logvar,-11.999716215867263
