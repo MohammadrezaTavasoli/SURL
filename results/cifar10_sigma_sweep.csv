@@ -1,4 +1,0 @@
-sigma_enc,reconstruction_fid,generation_fid,precision,recall
-0.05,17.53,48.71,0.861,0.0896
-0.15,19.56,51.61,0.867,0.0902
-0.30,27.85,58.16,0.8588,0.0734
