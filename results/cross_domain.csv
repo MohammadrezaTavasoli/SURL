@@ -1,4 +1,0 @@
-dataset,image_size,token_grid,sigma_enc,guidance_scale,reconstruction_fid,generation_fid,precision,recall
-cifar10,32x32,4x4,0.15,2.0,17.31,49.39,0.884,0.059
-pathmnist,32x32,4x4,0.15,2.0,7.13,29.36,0.829,0.309
-celeba64,64x64,8x8,0.15,2.0,9.08,41.22,0.657,0.198
