@@ -1,0 +1,4 @@
+method,latent_support,prior,fid,kid_mean,feature_precision,feature_recall,guidance_scale,seed
+SRUL,spherical spatial tokens,Riemannian Flow Matching,49.419273376464844,0.04565076902508736,0.8572,0.1098,2.0,0
+VAE + standard FM,KL-regularized Euclidean VAE latent,standard linear Flow Matching,50.701751708984375,0.04305851459503174,0.8548,0.0912,2.0,0
+VAE + projected RFM,VAE token directions plus class-token mean radius,projected Riemannian Flow Matching,56.040382385253906,0.050264596939086914,0.8482,0.0626,2.0,0
